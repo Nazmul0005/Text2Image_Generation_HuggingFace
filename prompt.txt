@@ -1,0 +1,67 @@
+1. prompt="""dreamlikeart, a grungy young woman with rainbow hair, travelling between dimensions, dynamic pose, happy, soft eyes and narrow chin, extreme bokeh, dainty figure, long hair straight down, torn kawali shirt and baggy jeans"""
+
+
+2. promt="Realistic bustling medieval marketplace with merchants at wooden stalls, people in authentic attire, natural sunlight, cobblestone streets, rustic buildings, textured fabrics, wood, and stone. Includes diverse crowd, traders, townsfolk, and animals like horses and chickens."
+
+
+3. prompt="""Realistic futuristic cityscape with towering skyscrapers, flying cars, and vibrant neon lights glowing against the night sky. Streets buzz with activity, reflecting high-tech urban life."""
+
+
+4. prompt="""A majestic unicorn with a proud posture and a fierce expression gallops majestically through a field of wildflowers, its coat reflecting the golden hue of the setting sun."""
+
+
+5. prompt3="""A girl is sitting on a chair & She is accompanied by her tiger. Make sure to keep it cinematic and color to be golden iris"""
+
+
+6. prompt5="A cinematic scene of a girl sitting elegantly with her majestic tiger. She has defined features, a detailed nose, exuding serenity. The tiger rests regally, its fur shimmering in warm golden light, showcasing their bond."
+
+
+7. prompt6="""A majestic unicorn with a proud posture and a fierce expression gallops majestically through a field of wildflowers, its coat reflecting the golden hue of the setting sun."""
+
+
+8. prompt6="""A bustling cyberpunk city at night with vibrant neon signs in blue, pink, and purple. Crowded streets feature futuristic vehicles and people in high-tech attire. Skyscrapers and rain-soaked roads reflect glowing lights."""
+
+
+9. prompt7="""A cinematic scene of a girl sitting gracefully on a chair with her majestic tiger. The warm golden iris hue creates a magical atmosphere. The girl exudes serenity, and the tiger rests regally, its fur shimmering. Highlight their connection with intricate details for a captivating visual."""
+
+
+10. prompt8="""A serene mountain landscape at sunrise with lush green valleys, snow-capped peaks, and a clear lake reflecting vibrant sky colors. Warm sunlight casts soft shadows, enhancing textures and a tranquil atmosphere."""
+
+
+Other prompt:
+
+
+## **Some Prompt to Generate Image . **
+
+A majestic unicorn with a proud posture and a fierce expression gallops majestically through a field of wildflowers, its coat reflecting the golden hue of the setting sun.
+    A majestic unicorn with a long, flowing mane and gleaming silver horn galloping through a vibrant field of wildflowers, bathed in the warm glow of a setting sun.
+    A majestic unicorn, its white coat shimmering in the soft light of a setting sun, gallops through a field of wildflowers in a serene forest clearing.
+    A majestic unicorn galloping through a field of wildflowers, bathed in the warm glow of a setting sun."""
+
+'''Science Fiction:
+
+    A futuristic cityscape with towering skyscrapers and flying cars, illuminated by the neon lights of the night.
+    A lone astronaut exploring the surface of a distant planet, with a breathtaking view of the cosmos in the background.
+    A futuristic robot with glowing red eyes and a sleek, metallic body, standing amidst a field of rubble in a post-apocalyptic landscape.
+    A futuristic spaceship soaring through the stars, with a breathtaking view of the Milky Way galaxy in the background.
+
+Historical:
+
+    A bustling medieval marketplace, with merchants selling their wares and people going about their daily lives.
+    A grand castle perched atop a hill, with a sweeping view of the surrounding countryside.
+    A group of soldiers marching through a snow-covered battlefield, with the smoke of battle rising in the distance.
+    A bustling ancient city, with people going about their daily lives in the streets and markets.
+
+Abstract:
+
+    A swirling vortex of colors and shapes, evoking a sense of wonder and mystery.
+    A serene landscape with rolling hills and a peaceful lake, bathed in the soft light of dawn.
+    A chaotic scene with clashing colors and distorted shapes, evoking a sense of anxiety and unease.
+    A minimalist composition with simple lines and shapes, evoking a sense of calm and tranquility.
+
+Humorous:
+
+    A cat wearing a tiny hat, sitting at a tea table with a cup of tea and a saucer.
+    A dog chasing its own tail in circles, with a look of pure joy on its face.
+    A group of animals having a tea party, with each animal dressed in their finest attire.
+    A cat playing the piano, while a dog sings along.

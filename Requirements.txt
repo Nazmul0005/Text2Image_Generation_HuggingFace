@@ -1,0 +1,6 @@
+diffusers==0.18.0
+transformers==4.22.0
+torch==1.13.1
+matplotlib==3.5.2
+accelerate==0.16.0
+Pillow==9.2.0

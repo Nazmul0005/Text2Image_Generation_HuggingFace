@@ -45,7 +45,7 @@ git clone https://github.com/Nazmul0005/Text2Image_Generation_HuggingFace.git
    pip install diffusers transformers accelerate matplotlib Pillow
    ```
 
-##  Usage
+## 📜 Usage
 
 ### 1. Load a Model
 ```python
@@ -144,9 +144,15 @@ Tested models include:
   
 ## 🌟 Output Examples
 
- - **Example 1**: Grungy Young Woman
-   ![Generated Example](https://github.com/Nazmul0005/Text2Image_Generation_HuggingFace/blob/main/Generated_Images/image1.png)
+ - **Example 1**: Beautiful Landscape
+   
+   ![output](https://github.com/Nazmul0005/Text2Image_Generation_HuggingFace/blob/main/Generated_Images/image15.png)
+
+   
  - **Example 2**: Majestic Unicorn
+   
+   ![output](https://github.com/Nazmul0005/Text2Image_Generation_HuggingFace/blob/main/Generated_Images/image9.png)
+   
 ## 📜 License
 - **Code**: This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 - **Models**: Check individual model licenses on Hugging Face Hub.

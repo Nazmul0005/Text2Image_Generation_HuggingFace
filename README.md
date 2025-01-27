@@ -3,7 +3,7 @@
 # **Text2Image_Generation_Huggingface**
 This project demonstrates how to generate high-quality, photorealistic images from textual descriptions using Stable Diffusion models. It is implemented in Python with Hugging Face's `diffusers` library and PyTorch, showcasing a variety of prompts and configurations for image generation.
 
-```markdown
+
 ![Generated Example](generated_image_example.png)  
 *Example output for "A futuristic cityscape with neon lights" (generated via `dreamlike-diffusion-1.0`)*
 

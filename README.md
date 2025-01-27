@@ -32,9 +32,9 @@ This project leverages pre-trained Stable Diffusion models from Hugging Face's `
   Pillow>=11.0.0
   ```
 ## Clone the Repository
-git clone https://github.com/yourusername/text-to-image-gen.git
-cd text-to-image-gen
-
+```bash
+git clone https://github.com/Nazmul0005/Text2Image_Generation_HuggingFace.git
+```
 ## 🚀 Installation
 1. **Install PyTorch with CUDA** (adjust based on your CUDA version):
    ```bash
@@ -143,7 +143,7 @@ Tested models include:
 - **Iterative Improvements**: Experiment with different models and parameters to achieve the best results.
 
 ## 📜 License
-- **Code**: MIT License (see [LICENSE](LICENSE)).
+- **Code**: This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 - **Models**: Check individual model licenses on Hugging Face Hub.
 
 ## 🙏 Acknowledgments
